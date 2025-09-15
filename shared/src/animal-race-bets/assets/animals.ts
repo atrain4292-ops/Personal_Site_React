@@ -51,4 +51,9 @@ export const animalMap: Record<string, AnimalData> = {
     name: 'Licence For That', 
     species: 'Cat', 
     color: '#A3C1AD' },
+  hedgehog1: { 
+    id: 'hedgehog1', 
+    name: 'Bountiful Rendezvous', 
+    species: 'Hedgehog', 
+    color: '#A3C1AD' },
 };
